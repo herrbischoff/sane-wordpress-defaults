@@ -2,6 +2,11 @@
 
 A repository with usable development defaults for using WordPress as a CMS.
 
+## Prerequisites
+
+* `git`
+* `wp-cli`
+
 ## Setup
 
 Just run `init.sh`.
